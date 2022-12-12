@@ -1,0 +1,4 @@
+repository "ApiPracticeDotNetCore@shirajul_munna@cloud"
+  path "/"
+    br "/main"
+    co "/main"
